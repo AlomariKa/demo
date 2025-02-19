@@ -7,3 +7,6 @@ This new line from main branch
 this is from feature2
 another change from main branch
 local test feature 3 real
+Local test change
+Local test change feature 3
+change from remote
