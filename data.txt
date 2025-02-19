@@ -6,3 +6,4 @@ This is the change on new branch
 This new line from main branch
 this is from feature2
 another change from main branch
+Local test change
